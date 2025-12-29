@@ -70,4 +70,15 @@ const c1 = new Customer("Mohan",20,12,540);
 console.log(c1.checkBalance());
 
 
+// const obj = {
+//     name:"Rohit",
+//     age:20
+// }
+
+
+// const obj2 = Object.create(obj);
+// obj2.account = 10;
+
+// console.log(obj2.account);
+
 
